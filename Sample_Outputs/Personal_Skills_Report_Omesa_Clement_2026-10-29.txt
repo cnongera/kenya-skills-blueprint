@@ -1,0 +1,24 @@
+================================================================================
+PERSONAL AI SKILLS DIAGNOSTIC REPORT
+Generated: 2026-10-29 20:10
+================================================================================
+
+Respondent: Omesa Clement | Sector: Information & Communication (ICT) | Education: Bachelor's
+Overall Proficiency Level: PRACTITIONER (48/100)
+
+DOMAIN SCORES:
+  AI Foundations & Data Fluency: 50/100 (Target: 75)
+  Prompting & AI Tool Use: 67/100 (Target: 70)
+  Responsible AI & Ethics: 58/100 (Target: 70)
+  Applied Problem-Solving: 17/100 (Target: 65)
+
+RECOMMENDED PATHWAY:
+  - [D]: Applied transfer: redesign ONE work product with AI; document time saved.
+  - [A]: AI foundations: work through an 'AI for everyone' style open course (4-6 weeks).
+  - [C]: Responsible AI: study one national AI-ethics guideline, write a team 'rules of use'.
+  - [B]: AI tool use: complete a prompt-engineering module and apply to 5 real tasks.
+
+EMPLOYMENT OUTCOMES SIMULATION:
+  Baseline Placement: 68.0%
+  Post-Training Placement: 77.0%
+  Uplift: +9.1 percentage points
