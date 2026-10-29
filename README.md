@@ -34,3 +34,9 @@ Based on 2024 KNBS/ILO data, the tool automatically identifies the following top
 1. Wholesale & Retail Trade (incl. MSMEs): Vulnerability Score 112.2 (4.2M informal workers at risk).
 2. Agriculture, Forestry & Fishing: Vulnerability Score 109.2 (4.1M informal workers at risk). 
 3. Construction: Vulnerability Score 104.8 (1.2M informal workers at risk). 
+
+## 📂 Sample Outputs
+Click here to view the actual generated files in the [Sample_Outputs](./Sample_Outputs) folder:
+*   [National Skills Blueprint (Markdown)](./Sample_Outputs/Kenya_Skills_Blueprint.md)
+*   [M&E Tracker (CSV)](./Sample_Outputs/Kenya_ME_Tracker.csv)
+*   [Personal Diagnostic Report (Text)](./Sample_Outputs/Personal_Skills_Report_Omesa_Clement_2026-10-29.txt)
